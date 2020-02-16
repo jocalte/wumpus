@@ -1,0 +1,4 @@
+ejecutar:
+python3.7 Wumpus.py
+
+# requiere numpy
